@@ -1,3 +1,8 @@
+body {
+    background: #020024;
+background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 56%, rgba(0, 212, 255, 1) 100%);
+}
+
 .avatar img {
     display: flex;
     float: right;
@@ -9,15 +14,16 @@
 }
 
 .tittle h1 {
-    display: flex;
-    float: left;
     margin: 15px;
     left: 90%;
     font-family: 'Arial', sans-serif;
     color: #ffffff;
 }
 
-body {
-    background: #020024;
-background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 56%, rgba(0, 212, 255, 1) 100%);
+.sobre-mi {
+    font-family: 'Arial', sans-serif;
+    color: #ffffff;
+    margin: 15px;
+    left: 90%;
 }
+
