@@ -1,0 +1,23 @@
+.avatar img {
+    display: flex;
+    float: right;
+    margin: 15px;
+    right: 90%;
+    border-radius: 100%;
+    width: 100px;
+    height: auto;
+}
+
+.tittle h1 {
+    display: flex;
+    float: left;
+    margin: 15px;
+    left: 90%;
+    font-family: 'Arial', sans-serif;
+    color: #ffffff;
+}
+
+body {
+    background: #020024;
+background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 56%, rgba(0, 212, 255, 1) 100%);
+}
